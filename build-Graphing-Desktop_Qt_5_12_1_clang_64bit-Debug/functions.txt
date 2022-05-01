@@ -1,4 +1,0 @@
-HISTORY
-x
-sin(x)
-tan(sin(1/x^2))
