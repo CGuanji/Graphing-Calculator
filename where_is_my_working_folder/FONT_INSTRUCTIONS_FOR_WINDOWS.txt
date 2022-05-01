@@ -1,7 +1,0 @@
-Run the program first so that your project will make a build folder
-(the program won't run in this case, but it will make a build folder).
-
-Then, go to your project folder file. Copy and paste your font
-files (arial.ttf and Roboto-Thin.ttf) into the build folder.
-
-Re-run your program and it should work. Hopefully. :D
