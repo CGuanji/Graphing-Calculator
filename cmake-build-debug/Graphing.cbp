@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Graphing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Graphing">
+				<Option output="/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Graphing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/guanjichen/Dropbox/CS3/Graphing/."/>
+					<Add directory="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing"/>
+					<Add directory="/Users/guanjichen/Dropbox/CS3/Graphing/where_is_my_working_folder"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 Graphing"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Graphing/fast">
+				<Option output="/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Graphing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/guanjichen/Dropbox/CS3/Graphing/."/>
+					<Add directory="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing"/>
+					<Add directory="/Users/guanjichen/Dropbox/CS3/Graphing/where_is_my_working_folder"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 Graphing/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/guanjichen/Dropbox/CS3/Graphing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/CMakeLists.txt">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/FONT_INSTRUCTIONS_FOR_WINDOWS.txt">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Font Problem.png">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/Animate.app/Contents/Info.plist">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/Animate.app/Contents/MacOS/Animate">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/Animate.app/Contents/PkgInfo">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/Animate.app/Contents/Resources/empty.lproj">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/Graphing.pro">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/_qmake.stash">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/animate">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/animate.cpp">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/animate.h">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/constants.h">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/description.h">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/graph_info.cpp">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/graph_info.h">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/main.cpp">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/plot.cpp">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/plot.h">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/random.cpp">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/random.h">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/sidebar.cpp">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/sidebar.h">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/system.cpp">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Graphing/system.h">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Roboto-Thin.ttf">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/Single Bouncing Ball.png">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/arial.ttf">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/where_is_my_working_folder/FONT_INSTRUCTIONS_FOR_WINDOWS.txt">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/where_is_my_working_folder/Font Problem.png">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/where_is_my_working_folder/Roboto-Thin.ttf">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/where_is_my_working_folder/Where_is_my_working_folder/main.cpp">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/where_is_my_working_folder/arial.ttf">
+			<Option target="Graphing"/>
+		</Unit>
+		<Unit filename="/Users/guanjichen/Dropbox/CS3/Graphing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
