@@ -1,4 +1,0 @@
-HISTORY
-x
-sin(x)/cos(x)
-tan(1/x^2+5)
